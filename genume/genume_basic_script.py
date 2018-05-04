@@ -225,9 +225,9 @@ def passwd():
 
     
 def about():
-    string1 ='genome version 1.0'
-    string2 ='Licence: GPL v.?'
-    string3 ='website'
+    string1 ='First version of genume'
+    string2 ='Licence: GPL v.2'
+    string3 ='original project : https://github.com/CSD-FOSS-Team/genume'
     return("{0}\n{1}\n{2}".format(string1,string2,string3))    
     
 

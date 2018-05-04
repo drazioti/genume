@@ -2,7 +2,7 @@
 """
 
 Initial author: K.Draziotis
-Tested in python 3.4.2
+Tested in python 3.4.2,3.6.3
 
 This is a gui for the  genume_basic_script.py.
 It is very simple to add new functions and connect them with the gui.
